@@ -1,2 +1,2 @@
 
-import "../src/add";
+import "../src/js/add";
